@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rakend
-- 👀 I’m interested in competitive programming
+- 👀 I’m interested in Python development and competitive programming
 - 🌱 I’m currently learning front-end web development 
 - 💞️ I’m looking to collaborate on JavaScript and C++ projects
 - 📫 How to reach me : chouhan.rakend.sonu@gmail.com
